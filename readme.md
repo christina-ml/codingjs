@@ -1,3 +1,17 @@
+# fork and clone the project
+
+# running the project locally
+1. update dev dependencies:
+`npm install` ____ `--save-dev`
+
+and dependencies:
+`npm install` ____
+
+2. Run build
+`npm run build` creates a dist folder with `bundle.js`
+
+3. Start Live Server to view locally
+
 # CodingJS
 
 A static website to do CodingBat problems in JavaScript. Use it at [the-winter.github.io/codingjs]( https://the-winter.github.io/codingjs).
